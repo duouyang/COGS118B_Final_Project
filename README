@@ -1,4 +1,9 @@
 Team Name: Chicken Wings
 
-Team Member: Zijian Liu 	zil011@ucsd.edu
-		  Duolan Ouyang duouyang@ucsd.edu
+Team Member: Zijian Liu	   zil011@ucsd.edu
+	     Duolan Ouyang duouyang@ucsd.edu
+	     
+Instructions:
+	1. unzip the zip files
+	2. drag the 'data0.piclke' under the main directory
+	3. run the jupyter notebook
